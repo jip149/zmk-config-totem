@@ -4,7 +4,7 @@ name: TOTEM
 type: shield
 url: https://github.com/GEIGEIGEIST/TOTEM
 requires:
-  - xiao_ble
+  - xiao_rp2040
 features:
   - keys
   - studio
