@@ -8,5 +8,6 @@
 / {
     chosen {
         zmk,physical-layout = &split_matrix_physical_layout;
+        device = &xiao_serial;
     };
 };
