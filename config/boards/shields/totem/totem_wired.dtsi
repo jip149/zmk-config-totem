@@ -1,0 +1,12 @@
+/*
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+#include "totem.dtsi"
+
+/ {
+    chosen {
+        zmk,physical-layout = &split_matrix_physical_layout;
+    };
+};
